@@ -8,6 +8,7 @@
 #include <iostream>
 using namespace std;
 int main(){
+	cout << "Class: COP3503" << endl;
 	cout << "This is our project!" << endl;
 }
 
