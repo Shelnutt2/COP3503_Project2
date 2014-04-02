@@ -8,7 +8,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-	cout << "This is my project." << endl;
+	cout << "This is my project!" << endl;
 }
 
 
