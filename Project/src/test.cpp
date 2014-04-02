@@ -9,6 +9,7 @@
 using namespace std;
 int main(){
 	cout << "This is our project!" << endl;
+	cout << "This is a good project!" << endl;
 }
 
 
