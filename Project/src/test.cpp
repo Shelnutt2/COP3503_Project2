@@ -8,8 +8,8 @@
 #include <iostream>
 using namespace std;
 int main(){
-	cout << "Professor: Joshua Horton" <<endl;
-	cout << "Lab: Thursday 5:10pm" <<endl;
+	cout << "Professor: Joshua Horton" << endl;
+	cout << "Lab: Thursday 5:10pm" << endl;
 	cout << "Class: COP3503" << endl;
 	cout << "This is our project!" << endl;
 	
